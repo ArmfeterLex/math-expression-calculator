@@ -2,6 +2,8 @@
 
 Калькулятор математических выражений на C# Windows Forms с выбором формулы из выпадающего списка.
 
+<img width="473" height="518" alt="math-expression-calculator" src="https://github.com/user-attachments/assets/0062ce88-f3f2-4c79-8609-bf9b06539fc7" />
+
 ## Функциональность
 
 - Выбор выражения из ComboBox (5 примеров)
